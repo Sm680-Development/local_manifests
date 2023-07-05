@@ -9,8 +9,8 @@
                 revision="13" />
 
 	<!-- Dependencies -->
-	<project name="LineageOS/android_hardware_motorola" path="hardware/motorola" remote="lineage" />
-	<project name="LineageOS/android_system_qcom" path="system/qcom" remote="lineage" />
+	<project name="android_hardware_motorola" path="hardware/motorola" remote="lineage" />
+	<project name="android_system_qcom" path="system/qcom" remote="lineage" />
 	<project name="vendor_dolby" path="vendor/dolby" remote="moto-khaje" revision="master" />
 
 	<!-- Device -->
